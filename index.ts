@@ -157,7 +157,7 @@ export default class NativeUI {
 					this.subtitle,
 					new Point(8 + this.offset.X, 110 + this.offset.Y),
 					0.35,
-					new Color(255, 255, 255),
+					new Color(45, 110, 184),
 					0,
 					Alignment.Left
 				))
@@ -169,7 +169,7 @@ export default class NativeUI {
 				"",
 				new Point(425 + this.offset.X, 110 + this.offset.Y),
 				0.35,
-				new Color(255, 255, 255),
+				new Color(45, 110, 184),
 				0,
 				Alignment.Right
 			);
